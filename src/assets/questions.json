@@ -160,6 +160,25 @@
                 }
             ],
             "explanation": "this.propertyName is the way to access a specific property within a class"
+        },
+        {
+            "questionText": "What is the correct syntax of StringInterpolation?",
+            "options": [{
+                    "text": "[expression]"
+                    
+                },
+                {
+                    "text": "(expression)"
+                },
+                {
+                    "text": "{{expression}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{{expression}}}"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
         }
     ]
 }
